@@ -16,3 +16,5 @@ O repositório inclui:
 Sinta-se à vontade para explorar o repositório, contribuir com melhorias ou adaptar os métodos e modelos para outros ativos financeiros e criptomoedas.
 
 #Bitcoin #Volatilidade #GARCH #ARCH #LSTM #AnáliseTécnica #RSI #PrevisãoDePreços #Criptomoedas #DataScience #MachineLearning
+
+Fonte dos dados: https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD
